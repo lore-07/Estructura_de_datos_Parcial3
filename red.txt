@@ -1,0 +1,6 @@
+A B arista1 10 5
+A C arista2 15 12
+B D arista3 12 4
+C D arista4 10 6
+D E arista5 5 2
+
